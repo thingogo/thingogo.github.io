@@ -1,0 +1,45 @@
+---
+layout: default
+title: Clients
+---
+<div class="jumbotron" style="background: url('/image/clients-banner.jpg') center center;background-size:cover">   
+    <center>
+        <br/>
+        <br/>
+        <br/>
+        <br/>        
+        <h2 style="color: #FFF">OUR CLIENTS</h2>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+    </center>
+</div>
+
+
+<div class="container">
+    <h2 class="text-uppercase">
+        At Thingogo we are here to facilitate your growth. this is our commitment to you.
+    </h2>
+    <p>
+        That is why we work with thousands of retailers across the region. Let us discover your needs and work together to solve your problems.
+    </p>
+    <h2>Clients</h2>    
+
+    <div class="row">
+        {% for client in site.data.clients %}  
+        <div class="col-lg-2 col-xs-4">
+            <img src="/image/clients/{{client.image}}" class="img-responsive img-circle" alt="client"/>
+            <br/>
+            <p class="text-muted text-center">{{client.name}}</p>
+        </div>
+        {% endfor %}
+    </div>
+    
+    <div class="row">
+        <div class="col-lg-offset-3 col-lg-6">
+            <script type="text/javascript" src="https://form.jotform.me/jsform/61333203679454"></script>
+        </div>
+    </div>
+    
+</div>

@@ -1,0 +1,76 @@
+## YAML Template.
+---
+-   name: Ed Chow
+    image: G10A0745_800X800.jpg
+
+-   name: Vivienne Zhang
+    image: G10A0814_800x800.jpg
+
+-   name: Shaherose Charania
+    image: Shahaerose.png
+
+-   name: Duyen Vu
+    image: duyen-1.jpg
+
+-   name: Guy Kawasaki
+    image: guy-kawasaki-1.jpg
+
+-   name: Hai Cao
+    image: hai-cao-1.jpg        
+
+-   name: Hang Nguyen
+    image: hang-nguyen-1.jpg        
+
+-   name: Hung Tran
+    image: hung-tran-1.jpg            
+
+-   name: Julie Nelson
+    image: julie-1.jpg               
+
+-   name: Kevin Rayl
+    image: kevin-1.jpg  
+
+-   name: Kien Pham
+    image: kien-pham-2.jpg      
+    
+-   name: Kien Tran
+    image: kien-tran-1.jpg          
+    
+-   name: Les Wright
+    image: les-1.jpg              
+    
+-   name: Lexy Square
+    image: lexy-square-f96fa008ce697acd842d03da450080fd.png               
+
+-   name: Matt Hubbell
+    image: matt-1.jpg
+    
+-   name: Matt Gabler
+    image: matt-gabler-1.jpg    
+    
+-   name: Nga Do
+    image: nga-1.jpg       
+    
+-   name: Nguyen Ho
+    image: nguyen-ho-2.jpg           
+    
+-   name: Phong Do
+    image: phong-do-1.jpg               
+    
+-   name: Raqhav Rastogi
+    image: raghav-rastogi-1.jpg                   
+    
+-   name: Rahul Saraf
+    image: rahul-saraf-1.jpg       
+
+-   name: Steve Lin
+    image: steve-2.jpg   
+    
+-   name: Thuy Ngo
+    image: thuy-ngo-1.jpg       
+    
+-   name: Tommy Le
+    image: tommy-1.jpg           
+    
+#-   name: Tyler Nelson
+#   image: tyler-1.jpg               
