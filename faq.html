@@ -1,0 +1,31 @@
+---
+layout: default
+title: FAQ
+---
+
+<div class="jumbotron" style="background: url('/image/faq-banner.jpg') center center;background-size:cover">   
+    <center>
+        <br/>
+        <br/>
+        <br/>
+        <br/>        
+        <h2 style="color: #FFF">FAQ</h2>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+    </center>
+</div>
+
+{% include faq-block.html block_alias = "deliveries" block_title = "Delivery Process and Rescheduling Deliveries" question_n_answers = site.data.faq.deliveries %}
+
+{% include faq-block.html block_alias = "accounts" block_title = "Account Opening and Charges" question_n_answers = site.data.faq.accounts %}
+
+{% include faq-block.html block_alias = "collects" block_title = "Ninja Collect" question_n_answers = site.data.faq.collects %}
+
+<br/>
+
+    
+
+
+<br/>

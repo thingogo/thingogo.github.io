@@ -1,0 +1,28 @@
+<div class="container panel-group" id="accordion_{{ include.block_alias }}">
+    <h2>{{ include.block_title }}</h2>
+
+    {% assign idx = '0' %}
+    {% for question_n_answer in include.question_n_answers %}  
+
+    {% capture idx %}{{ idx | plus: '1' }}{% endcapture %}
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion_{{ include.block_alias }}" href="#collapse_{{ include.block_alias }}_{{ idx }}">
+                    {{idx}}. {{ question_n_answer.question | newline_to_br | newline_to_br }}
+                </a>
+            </h4>
+        </div>
+        <div id="collapse_{{ include.block_alias }}_{{ idx }}" class="panel-collapse collapse">
+            <div class="panel-body" data-html="true">
+                {{ question_n_answer.answer | newline_to_br | newline_to_br }}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    <br/>
+    <center>
+        <a href="/faq" class="btn btn-danger text-center">Contact Us</a>
+    </center>
+</div>
+
