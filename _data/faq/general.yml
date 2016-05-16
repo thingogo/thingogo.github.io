@@ -1,0 +1,60 @@
+## YAML Template.
+---
+-   question: What are the operational hours?
+    answer: >
+        Thingogo operates from Monday to Saturday (!start_working_hour! - !end_working_hour!), excluding public holidays.
+-   question: How much does Thingogo cost?
+    answer: >
+        Does not matter how far it is, delivery fee is fixed at !service_cost!.
+-   question: How long does it take for Thingogo to collect and deliver a package?
+    answer: >
+        On average a single collect and drop may take 2-4 working hours from the time a collect has been done.
+
+-   question: Where is this currently available?
+    answer: >
+        Our service is currently available in Singapore.
+
+-   question: What items can I deliver using Thingogo?
+    answer: >
+        We deliver anyitem that can put in our backpack and weighs less than 03 kilograms such as mobile phone, macbook and headphone.
+        
+        However, you may NOT send for delivery:
+
+        1. People or animals of any size
+        
+        2. Alcohol (or any other goods that require identification)
+        
+        3. Illegal items
+        
+        4. Dangerous items (weapons, explosives, flammable, etc.)
+        
+        5. Stolen goods
+        
+        6. Any items for which you do not have permission to send
+
+-   question: What do you do to guarantee safe & reliable delivery? ***
+    answer: >
+        (empty)
+        
+-   question: What happens if my package is lost or damaged?
+    answer: >
+        "We take complete responsibility for all the products handled by our team" hence any loss or damaged while doing a delivery will be covered by us.
+
+-   question: Does Thingogo deliver on public holidays?
+    answer: >
+        No, we do not deliver on public holidays.
+
+-   question: Does Thingogo deliver to Sentosa?
+    answer: >
+        No, we do not deliver to Sentosa.
+
+-   question: Does Thingogo deliver to offices?
+    answer: >
+        No, we do not deliver to offices.
+
+-   question: Do you provide tracking?
+    answer: >
+        No, we have not provided tracking service.
+
+        
+        

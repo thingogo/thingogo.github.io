@@ -19,3 +19,9 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+service_cost: S$5
+hotline: 19005678
+
+start_working_hour: 9am
+end_working_hour: 10pm

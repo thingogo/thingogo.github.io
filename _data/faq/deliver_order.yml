@@ -1,0 +1,13 @@
+## YAML Template.
+---
+-   question: How do I create a delivery order?
+    answer: >
+
+-   question: How do I update or cancel my order?
+    answer: >
+
+-   question: Can I place an order after operation hours? What if I place an order?
+    answer: >
+        If you place an order after operational hours you will not receive a confirmation in 20 minutes. Instead a confirmation will be sent the following working day after !start_working_hour!.
+
+        

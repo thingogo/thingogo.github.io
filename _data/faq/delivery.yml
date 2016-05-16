@@ -1,0 +1,19 @@
+## YAML Template.
+---
+-   question: How is an order delivered?
+    answer: >
+
+-   question: If delivery fails, what happens?
+    answer: >
+
+-   question: What if Thingogo is late for pickup or delivery?
+    answer: >
+        Please call our customer service on !hotline! to check with our team. It almost never happens that our delivery executives are late and we have not informed you.
+
+-   question: What if my customer is not at home when Thingogo makes the delivery?        
+    answer: >
+        Our driver will either fail the delivery or call your customer to check if they would like their parcel to be left at a secure location of their choice. Where secure location is chosen, your customer would need to provide our driver with the verification code sent out with the SMS in the morning.
+        
+-   question: How will I know when my parcel has been delivered?
+    answer: >
+        
