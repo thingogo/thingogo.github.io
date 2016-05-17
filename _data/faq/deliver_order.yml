@@ -2,12 +2,14 @@
 ---
 -   question: How do I create a delivery order?
     answer: >
+        Users (1 buyer and 1 seller on Carousell) suppose to make a group chat and add us in at !hotline!, so we can disscuss more about meet time and place.
 
 -   question: How do I update or cancel my order?
     answer: >
+        Text us, that's it. Everything is via Whatsapp. We make everything in a friendly way.
 
--   question: Can I place an order after operation hours? What if I place an order?
+-   question: Can I place an order after operation hours?
     answer: >
-        If you place an order after operational hours you will not receive a confirmation in 20 minutes. Instead a confirmation will be sent the following working day after !start_working_hour!.
+        If you place an order after operation hours you will not receive a confirmation in 20 minutes. Instead a confirmation will be sent the following working day after !start_working_hour!.
 
         
