@@ -7,8 +7,12 @@ title: Clients
         <br/>
         <br/>
         <br/>
+        <br/>
+        <br/>
         <br/>        
-        <h2 style="color: #FFF">OUR CLIENTS</h2>
+        <h3 style="color: #FFF"><span style="background-color: #ff0000; opacity: 0.8; padding: 10px;padding-left: 20px; padding-right: 20px">OUR CLIENTS</span></h3> 
+        <br/>
+        <br/>
         <br/>
         <br/>
         <br/>
@@ -16,30 +20,43 @@ title: Clients
     </center>
 </div>
 
-
-<div class="container">
-    <h2 class="text-uppercase">
-        At Thingogo we are here to facilitate your growth. this is our commitment to you.
-    </h2>
-    <p>
-        That is why we work with thousands of retailers across the region. Let us discover your needs and work together to solve your problems.
-    </p>
-    <h2>Clients</h2>    
-
-    <div class="row">
-        {% for client in site.data.clients %}  
-        <div class="col-lg-2 col-xs-4">
-            <img src="/image/avatar_empty.png" class="img-responsive img-circle" alt="client"/>
-            <br/>
-            <p class="text-muted text-center">{{client.name}}</p>
-        </div>
-        {% endfor %}
-    </div>
-    
-    <div class="row">
-        <div class="col-lg-offset-3 col-lg-6">
-            <script type="text/javascript" src="https://form.jotform.me/jsform/61333203679454"></script>
-        </div>
-    </div>
-    
+<div class="hidden-sm hidden-xs">
+    <br/>
+    <br/>
+    <br/>
 </div>
+
+<center>
+    <div class="container">
+        <h2 class="text-uppercase">
+            At Thingogo we are here to make your life easier, start with the way you shop. This is our commitment to you.
+        </h2>
+        <p>
+            That is why we work with hundreds clients and improve our service day by day. Let us discover your needs and work together to solve your problems.
+        </p>
+        <br/>
+        <h2>OUR CLIENTS</h2>  
+        <br/>
+
+        <div class="row">
+            {% for client in site.data.clients %}  
+            <div class="col-lg-2 col-xs-4">
+                <img src="/image/avatar_empty.png" class="img-responsive img-circle" alt="client"/>
+                <br/>
+                <p class="text-muted text-center">{{client.name}}</p>
+            </div>
+            {% endfor %}
+        </div>
+            <br/>
+            <h2>AND MORE...</h2>
+        <br/>
+
+
+        <div class="row">
+            <div class="col-lg-offset-3 col-lg-6">
+                <script type="text/javascript" src="https://form.jotform.me/jsform/61333203679454"></script>
+            </div>
+        </div>
+
+    </div>
+</center>>

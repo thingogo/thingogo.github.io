@@ -1,0 +1,13 @@
+## YAML Template.
+---
+-   question: How is an order picked up?
+    answer: >
+        Meet up with us at any MRT. Users (1 buyer and 1 seller on Carousell) suppose to make a group chat and add us in. As our delivery men pass a specific MRT every hour, so we can discuss timing to meet up at your convenience MRT and time.
+
+-   question: What if Thingogo is late for pickup or delivery?
+    answer: >
+        Please call our customer service on !hotline! to check with our team. We will go again at another time.
+        
+-   question: What if I keep the delivery man waiting at the pickup or delivery point?
+    answer: >
+        NO ADDITIONAL CHARGE. We will wait for upto 15m. If you cannot come, text us so we can set up another meeting. 
