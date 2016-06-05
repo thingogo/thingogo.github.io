@@ -2,11 +2,11 @@
 ---
 -   question: What are the operational hours?
     answer: >
-        Thingogo operates from Monday to Saturday (!start_working_hour! - !end_working_hour!), excluding public holidays.
--   question: How much does Thingogo cost?
+        Singoing operates from Monday to Saturday (!start_working_hour! - !end_working_hour!), excluding public holidays.
+-   question: How much does Singoing cost?
     answer: >
         Does not matter how far it is, delivery fee is fixed at !service_cost!.
--   question: How long does it take for Thingogo to collect and deliver a package?
+-   question: How long does it take for Singoing to collect and deliver a package?
     answer: >
         On average a single collect and drop may take 2-4 working hours from the time a collect has been done. The delivery time could be extend regarding to your demand (for example, if your customer prefer to get the item on next day, we will help storage it and deliver on the next day).
 
@@ -14,7 +14,7 @@
     answer: >
         Our service is currently available in Singapore.
 
--   question: What items can I deliver using Thingogo?
+-   question: What items can I deliver using Singoing?
     answer: >
         We deliver anyitem that can put in our backpack and weighs less than 03 kilograms such as mobile phone, macbook and headphone.
         
@@ -40,15 +40,15 @@
     answer: >
         "We take complete responsibility for all the products handled by our team" hence any loss or damaged while doing a delivery will be covered by us.
 
--   question: Does Thingogo deliver on public holidays?
+-   question: Does Singoing deliver on public holidays?
     answer: >
         Yes, we do.
 
--   question: Does Thingogo deliver to Sentosa?
+-   question: Does Singoing deliver to Sentosa?
     answer: >
         No, we do not deliver to Sentosa.
 
--   question: Does Thingogo deliver to offices?
+-   question: Does Singoing deliver to offices?
     answer: >
         No, we do not deliver to offices.
 
